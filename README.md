@@ -46,6 +46,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reymoh75&show_icons=true&locale=en&layout=compact" alt="reymoh75" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reymoh75&show_icons=true&locale=en" alt="reymoh75" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reymoh75&show_icons=true&locale=en&include_all_commits=true&hide=stars" alt="reymoh75" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reymoh75&" alt="reymoh75" /></p>
